@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!-- 
+![Jia Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahao19971&count_private=true)
+-->
+<!-- 
 [![Jia Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahao19971)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 <!-- 
